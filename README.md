@@ -1,9 +1,28 @@
 # Temp-maill
 Unlimited  Maill Clone
 
+$ cd
 
-git clone https://github.com/TAHIDUL-123/Temp-maill
+$ rm -rf Temp-maill
 
-cd Temp-maill
+$ pkg update
 
-python Temp-maill.py
+$ pkg upgrade
+
+$ pkg install python
+
+$ pkg install python2
+
+$ pip install requests
+
+$ pip install mechanize
+
+$ pip install bs4
+
+$ pkg install git
+
+$ git clone https://github.com/TAHIDUL-123/Temp-maill
+
+$ cd Temp-maill
+
+$ python Temp-maill.py
